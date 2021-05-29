@@ -1,0 +1,11 @@
+
+.err_status {
+    color: red;
+}
+.normal_status {
+    color: black;
+}
+
+.empty_box {
+    border: 1px solid red;
+}
